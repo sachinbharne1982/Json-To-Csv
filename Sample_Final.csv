@@ -1,0 +1,53 @@
+,ID,Type,Name,Batter,Topping
+0,1001,Donut,Cake,Regular,None
+1,1001,Donut,Cake,Regular,Glazed
+2,1001,Donut,Cake,Regular,Sugar
+3,1001,Donut,Cake,Regular,Powdered Sugar
+4,1001,Donut,Cake,Regular,Chocolate with Sprinkles
+5,1001,Donut,Cake,Regular,Chocolate
+6,1001,Donut,Cake,Regular,Maple
+7,1002,Donut,Cake,Chocolate,None
+8,1002,Donut,Cake,Chocolate,Glazed
+9,1002,Donut,Cake,Chocolate,Sugar
+10,1002,Donut,Cake,Chocolate,Powdered Sugar
+11,1002,Donut,Cake,Chocolate,Chocolate with Sprinkles
+12,1002,Donut,Cake,Chocolate,Chocolate
+13,1002,Donut,Cake,Chocolate,Maple
+14,1003,Donut,Cake,Blueberry,None
+15,1003,Donut,Cake,Blueberry,Glazed
+16,1003,Donut,Cake,Blueberry,Sugar
+17,1003,Donut,Cake,Blueberry,Powdered Sugar
+18,1003,Donut,Cake,Blueberry,Chocolate with Sprinkles
+19,1003,Donut,Cake,Blueberry,Chocolate
+20,1003,Donut,Cake,Blueberry,Maple
+21,1004,Donut,Cake,Devil's Food,None
+22,1004,Donut,Cake,Devil's Food,Glazed
+23,1004,Donut,Cake,Devil's Food,Sugar
+24,1004,Donut,Cake,Devil's Food,Powdered Sugar
+25,1004,Donut,Cake,Devil's Food,Chocolate with Sprinkles
+26,1004,Donut,Cake,Devil's Food,Chocolate
+27,1004,Donut,Cake,Devil's Food,Maple
+28,1002,Molten Cake,Lava Cake,Chocolate,None
+29,1002,Molten Cake,Lava Cake,Chocolate,Glazed
+30,1002,Molten Cake,Lava Cake,Chocolate,Sugar
+31,1002,Molten Cake,Lava Cake,Chocolate,Powdered Sugar
+32,1002,Molten Cake,Lava Cake,Chocolate,Chocolate with Sprinkles
+33,1002,Molten Cake,Lava Cake,Chocolate,Chocolate
+34,1002,Molten Cake,Lava Cake,Chocolate,Maple
+35,1002,Molten Cake,Lava Cake,Chocolate,Caramel
+36,1003,Molten Cake,Lava Cake,White Choco.,None
+37,1003,Molten Cake,Lava Cake,White Choco.,Glazed
+38,1003,Molten Cake,Lava Cake,White Choco.,Sugar
+39,1003,Molten Cake,Lava Cake,White Choco.,Powdered Sugar
+40,1003,Molten Cake,Lava Cake,White Choco.,Chocolate with Sprinkles
+41,1003,Molten Cake,Lava Cake,White Choco.,Chocolate
+42,1003,Molten Cake,Lava Cake,White Choco.,Maple
+43,1003,Molten Cake,Lava Cake,White Choco.,Caramel
+44,1004,Molten Cake,Lava Cake,Devil's Food,None
+45,1004,Molten Cake,Lava Cake,Devil's Food,Glazed
+46,1004,Molten Cake,Lava Cake,Devil's Food,Sugar
+47,1004,Molten Cake,Lava Cake,Devil's Food,Powdered Sugar
+48,1004,Molten Cake,Lava Cake,Devil's Food,Chocolate with Sprinkles
+49,1004,Molten Cake,Lava Cake,Devil's Food,Chocolate
+50,1004,Molten Cake,Lava Cake,Devil's Food,Maple
+51,1004,Molten Cake,Lava Cake,Devil's Food,Caramel
