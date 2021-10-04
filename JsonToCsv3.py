@@ -48,6 +48,12 @@ if __name__ == '__main__':
           
     df = json_to_dataframe(json_data)
     #print(df)
-    df.to_csv('Sample.csv', mode='w')
-    #df.to_csv('Sample.csv', sep=',', encoding='utf-8') #save as csv
     
+    df.to_csv('Sample.csv')
+    df.rename(columns = {'items.item.batters.batter.id':'ID','items.item.type':'Type','items.item.name':'Name',
+                     'items.item.batters.batter.type':'Batter',
+                     'items.item.topping.type':'Topping'},inplace = True)
+    df1 = df[['ID','Type','Name','Batter','Topping']]
+    #df1.drop(['Unnamed: 0'],axis=1,inplace =True)
+    df1.to_csv('Sample_Final.csv', mode='w')
+   
